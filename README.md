@@ -38,4 +38,5 @@ Analysis:
 
 ![Figure](https://raw.githubusercontent.com/ROliveira13/Data115_Personal_Project/master/Screen%20Shot%202020-12-06%20at%205.57.48%20PM.png)
 
+For the analysis portion of the project I decided to go ahead and analyze a couple of things, I wanted to do Tukey's five number summary and I wanted to measure the correlation of each of the statistics.
 https://www.mlb.com/stats/2019
