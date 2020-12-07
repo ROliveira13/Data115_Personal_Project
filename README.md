@@ -36,5 +36,6 @@ Analysis:
 
 ![Figure](https://raw.githubusercontent.com/ROliveira13/Data115_Personal_Project/master/Screen%20Shot%202020-12-06%20at%205.57.24%20PM.png)
 
+![Figure](https://raw.githubusercontent.com/ROliveira13/Data115_Personal_Project/master/Screen%20Shot%202020-12-06%20at%205.57.48%20PM.png)
 
 https://www.mlb.com/stats/2019
